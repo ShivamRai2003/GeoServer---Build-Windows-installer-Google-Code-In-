@@ -35,7 +35,7 @@
 
 10. After successfully compiling the script, an installer named geoserver-2.16.1.exe will be located in the root of the unpacked archive. and It is ready to use.
 
-![6]()
+![6](https://github.com/ShivamRai2003/GeoServer---Build-Windows-installer-Google-Code-In-/blob/master/IMAGES/6.JPG)
 
 ![7](https://github.com/ShivamRai2003/GeoServer---Build-Windows-installer-Google-Code-In-/blob/master/IMAGES/8.JPG)
 
