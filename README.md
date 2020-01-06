@@ -39,4 +39,4 @@
 
 ![7](https://github.com/ShivamRai2003/GeoServer---Build-Windows-installer-Google-Code-In-/blob/master/IMAGES/8.JPG)
 
-                                                                                **Thank You !**
+                                                                                                Thank You !
