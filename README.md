@@ -16,7 +16,7 @@
 
 4. Then Copy the **AcessControl.dll** file present in the Unicode/Plugins directory of **NSIS Access Control Plugin** to **NSIS Installer** which is present in this directory. "C:\Program Files (x86)\NSIS\Plugins\x86-unicode"
 
-![3]()
+![3](https://github.com/ShivamRai2003/GeoServer---Build-Windows-installer-Google-Code-In-/blob/master/IMAGES/3.JPG)
 
 5. Now Dowload the Binary GeoSerevr Package from this link https://docs.geoserver.org/stable/en/user/installation/win_binary.html and note that it is compatible with **JAVA 8**. Make Sure It is properly Installed. **or** Download **Nightly Development Build** From here  https://build.geoserver.org. and extract any of them.
 
