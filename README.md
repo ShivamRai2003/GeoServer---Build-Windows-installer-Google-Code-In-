@@ -30,7 +30,7 @@
 
 ![5](https://github.com/ShivamRai2003/GeoServer---Build-Windows-installer-Google-Code-In-/blob/master/IMAGES/5.JPG)
 
-9. Now **Right-click on the installer script GeoServerEXE.nsi and select Compile Script.**
+9. Now **Right-click on the installer script GeoServerEXE.nsi and select Compile NSIS Script.**
 ![6](https://github.com/ShivamRai2003/GeoServer---Build-Windows-installer-Google-Code-In-/blob/master/Compile.jpg)
 
 10. After successfully compiling the script, an installer named geoserver-2.16.1.exe will be located in the root of the unpacked archive. and It is ready to use.
@@ -39,4 +39,4 @@
 
 ![7](https://github.com/ShivamRai2003/GeoServer---Build-Windows-installer-Google-Code-In-/blob/master/IMAGES/8.JPG)
 
-                                                                                                            -- **Thank You !**
+                                                                                **Thank You !**
