@@ -1,6 +1,6 @@
 ![GeoServer](https://github.com/ShivamRai2003/GeoServer---Build-Windows-installer-Google-Code-In-/blob/master/IMAGES/1.png)
 
-#  Task : GeoServer-Build-Windows-installer 2.16.1 -Google-Code-In-
+#  Task : GeoServer-Build-Windows-installer 2.16.1
 
 **Note** This step requires a Windows machine.
 
