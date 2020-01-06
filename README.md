@@ -2,7 +2,7 @@
 
 #  Task : GeoServer-Build-Windows-installer 2.16.1
 
-``**Note** This step requires a Windows machine.``
+``Note : This step requires a Windows machine.``
 
 **Process**
 
